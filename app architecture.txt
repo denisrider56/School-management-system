@@ -1,0 +1,11 @@
+school web app/
+│
+├── app.py
+├── School.accdb
+├── static/
+│   ├── style.css
+│   └── script.js        <-- for future chart interactivity
+└── templates/
+      ├── index.html      <-- Dashboard home
+      ├── students.html   <-- Student table page
+      └── edit_student.html
